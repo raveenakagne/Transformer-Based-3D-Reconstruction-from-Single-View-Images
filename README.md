@@ -58,4 +58,5 @@ This repository presents a modular pipeline for reconstructing 3D scenes from si
 - **Optimization for low-resource environments**  
   Streamline the pipeline and model selection to support deployment on devices with limited computational power, enabling broader accessibility.
 
-
+## Detail Overview 
+- Transformer_Based_3D_Reconstruction_from_Single_view_Images.pdf is our IEEE format report explaining all the findings.
